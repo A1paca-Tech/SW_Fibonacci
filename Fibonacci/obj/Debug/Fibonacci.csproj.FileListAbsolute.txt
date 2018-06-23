@@ -1,0 +1,10 @@
+D:\My_Program\Projects\school_work\Fibonacci\Fibonacci\bin\Debug\Fibonacci.exe.config
+D:\My_Program\Projects\school_work\Fibonacci\Fibonacci\bin\Debug\Fibonacci.exe
+D:\My_Program\Projects\school_work\Fibonacci\Fibonacci\bin\Debug\Fibonacci.pdb
+D:\My_Program\Projects\school_work\Fibonacci\Fibonacci\obj\Debug\Fibonacci.csprojAssemblyReference.cache
+D:\My_Program\Projects\school_work\Fibonacci\Fibonacci\obj\Debug\Fibonacci.Form1.resources
+D:\My_Program\Projects\school_work\Fibonacci\Fibonacci\obj\Debug\Fibonacci.Properties.Resources.resources
+D:\My_Program\Projects\school_work\Fibonacci\Fibonacci\obj\Debug\Fibonacci.csproj.GenerateResource.cache
+D:\My_Program\Projects\school_work\Fibonacci\Fibonacci\obj\Debug\Fibonacci.csproj.CoreCompileInputs.cache
+D:\My_Program\Projects\school_work\Fibonacci\Fibonacci\obj\Debug\Fibonacci.exe
+D:\My_Program\Projects\school_work\Fibonacci\Fibonacci\obj\Debug\Fibonacci.pdb
